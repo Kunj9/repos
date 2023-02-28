@@ -1,0 +1,21 @@
+C:\Users\bhatt\source\repos\image insert\image insert\bin\Debug\net6.0-windows\image insert.exe
+C:\Users\bhatt\source\repos\image insert\image insert\bin\Debug\net6.0-windows\image insert.deps.json
+C:\Users\bhatt\source\repos\image insert\image insert\bin\Debug\net6.0-windows\image insert.runtimeconfig.json
+C:\Users\bhatt\source\repos\image insert\image insert\bin\Debug\net6.0-windows\image insert.dll
+C:\Users\bhatt\source\repos\image insert\image insert\bin\Debug\net6.0-windows\image insert.pdb
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\image insert.csproj.AssemblyReference.cache
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\image insert_MarkupCompile.cache
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\image insert_MarkupCompile.lref
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\image insert.g.resources
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\image insert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\image insert.AssemblyInfoInputs.cache
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\image insert.AssemblyInfo.cs
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\image insert.csproj.CoreCompileInputs.cache
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\image insert.dll
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\refint\image insert.dll
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\image insert.pdb
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\image insert.genruntimeconfig.cache
+C:\Users\bhatt\source\repos\image insert\image insert\obj\Debug\net6.0-windows\ref\image insert.dll

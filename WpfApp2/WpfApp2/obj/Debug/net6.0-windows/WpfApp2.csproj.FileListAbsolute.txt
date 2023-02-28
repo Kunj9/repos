@@ -1,0 +1,5 @@
+C:\Users\bhatt\source\repos\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\bhatt\source\repos\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bhatt\source\repos\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\bhatt\source\repos\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\bhatt\source\repos\WpfApp2\WpfApp2\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.lref

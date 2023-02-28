@@ -1,0 +1,21 @@
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\WPF application.csproj.AssemblyReference.cache
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\WPF application_MarkupCompile.cache
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\WPF application_MarkupCompile.lref
+C:\Users\bhatt\source\repos\WPF application\WPF application\bin\Debug\net6.0-windows\WPF application.exe
+C:\Users\bhatt\source\repos\WPF application\WPF application\bin\Debug\net6.0-windows\WPF application.deps.json
+C:\Users\bhatt\source\repos\WPF application\WPF application\bin\Debug\net6.0-windows\WPF application.runtimeconfig.json
+C:\Users\bhatt\source\repos\WPF application\WPF application\bin\Debug\net6.0-windows\WPF application.dll
+C:\Users\bhatt\source\repos\WPF application\WPF application\bin\Debug\net6.0-windows\WPF application.pdb
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\WPF application.g.resources
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\WPF application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\WPF application.AssemblyInfoInputs.cache
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\WPF application.AssemblyInfo.cs
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\WPF application.csproj.CoreCompileInputs.cache
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\WPF application.dll
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\refint\WPF application.dll
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\WPF application.pdb
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\WPF application.genruntimeconfig.cache
+C:\Users\bhatt\source\repos\WPF application\WPF application\obj\Debug\net6.0-windows\ref\WPF application.dll
